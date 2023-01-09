@@ -31,7 +31,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency('i18n', '>= 1.8.11', '< 2')
 
   spec.add_development_dependency('minitest', '5.15.0')
-  spec.add_development_dependency('pry', '0.14.1')
+  spec.add_development_dependency('pry', '0.14.2')
   spec.add_development_dependency('rake', '13.0.6')
   spec.add_development_dependency('rubocop', '1.24.1')
   # Workaround for cc-test-reporter with SimpleCov 0.18.
